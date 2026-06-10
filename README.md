@@ -1,5 +1,21 @@
 # Lab: Password Input
 
+![Password Input Screenshot](src/assets/passwordinput.png)
+
+## Running the Project
+1. Install dependencies:
+   ```
+   npm install
+   ```
+2. Start the development server:
+   ```
+   npm run dev
+   ```
+3. Run the tests:
+   ```
+   npm run test
+   ```
+
 ## Overview
 Now that you've learned how to work with events in React, it's time to build something and put those skills to use! Your goal for this lab is to add events in React to practice building event handling.
 
